@@ -9,7 +9,7 @@ This project uses the mSCP Python tooling to author a custom YAML baseline, gene
 Files:
 - baseline YAML: `baselines/macOS-personal.yaml`
 - decision framework: `risk-based-decision-framework.md`
-- compliance script: `build/macOS-personal/macOS_personal_compliance.sh`
+- compliance script: `macOS-personal/macOS_personal_compliance.sh`
 
 ## Requirements
 
@@ -21,7 +21,7 @@ Files:
 ## Baseline
 
 The custom baseline is defined in `baselines/macOS-personal.yaml`. Rules were selected based on relevance to a personal workstation and alignment with my own risk-based decision framework:
-- [risk-based-decision-framework.md]
+- (risk-based-decision-framework.md)[risk-based-decision-framework.md]
 
 ## References
 
