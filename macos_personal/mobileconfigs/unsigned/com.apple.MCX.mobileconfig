@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>THE SOFTWARE IS PROVIDED 'AS IS' WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SOFTWARE WILL CONFORM TO SPECIFICATIONS, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND FREEDOM FROM INFRINGEMENT, AND ANY WARRANTY THAT THE DOCUMENTATION WILL CONFORM TO THE SOFTWARE, OR ANY WARRANTY THAT THE SOFTWARE WILL BE ERROR FREE.  IN NO EVENT SHALL NIST BE LIABLE FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES, ARISING OUT OF, RESULTING FROM, OR IN ANY WAY CONNECTED WITH THIS SOFTWARE, WHETHER OR NOT BASED UPON WARRANTY, CONTRACT, TORT, OR OTHERWISE, WHETHER OR NOT INJURY WAS SUSTAINED BY PERSONS OR PROPERTY OR OTHERWISE, AND WHETHER OR NOT LOSS WAS SUSTAINED FROM, OR AROSE OUT OF THE RESULTS OF, OR USE OF, THE SOFTWARE OR SERVICES PROVIDED HEREUNDER.</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DisableGuestAccount</key>
+			<true/>
+			<key>EnableGuestAccount</key>
+			<false/>
+			<key>PayloadIdentifier</key>
+			<string>mscp.com.apple.MCX.58c4fd77-813b-4bcb-ac88-6f8d8d1d8b74</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>58c4fd77-813b-4bcb-ac88-6f8d8d1d8b74</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>dontAllowFDEDisable</key>
+			<true/>
+			<key>forceInternetSharingOff</key>
+			<true/>
+			<key>timeServer</key>
+			<string>pool.ntp.org</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Created: 2026-05-30
+Configuration settings for the com.apple.MCX preference domain.</string>
+	<key>PayloadDisplayName</key>
+	<string>[macOS_personal] com.apple.MCX settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.MCX.macOS_personal</string>
+	<key>PayloadOrganization</key>
+	<string>macOS Security Compliance Project</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8cfa5def-1d90-4c70-a7b9-43d195fede44</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
