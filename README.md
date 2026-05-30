@@ -21,7 +21,7 @@ Files:
 ## Baseline
 
 The custom baseline is defined in `baselines/macOS-personal.yaml`. Rules were selected based on relevance to a personal workstation and alignment with my own risk-based decision framework:
-- (risk-based-decision-framework.md)[risk-based-decision-framework.md]
+- [risk-based-decision-framework.md](risk-based-decision-framework.md)
 
 ## References
 
